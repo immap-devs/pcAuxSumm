@@ -10,3 +10,4 @@ print(obj$call)
 plot(obj$rSquared$lin)
 
 # some change
+plot(obj$rSquared$nonLin)
